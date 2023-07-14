@@ -1,2 +1,2 @@
 # debian-dotfiles
-Backup of my Debian 12 configs
+A backup of my Debian 12 configs
